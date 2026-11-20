@@ -10,4 +10,4 @@
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/f077ef25-afcc-4d6f-9220-2d50f1b703c7" />
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/868ee2a6-1e28-4642-8f0f-c289e7add893" />
 
-<img src="https://static.wikitide.net/phightingwiki/0/0a/Mastery_Sticker_II_Medkit.gif?_=20261003223927" alt="File:Mastery Sticker II Medkit.gif"/><img width="204" height="204" alt="image" src="https://github.com/user-attachments/assets/3008eb71-1431-47d2-879f-1afc6d7ca197" />
+<img src="https://static.wikitide.net/phightingwiki/0/0a/Mastery_Sticker_II_Medkit.gif?_=20261003223927" alt="File:Mastery Sticker II Medkit.gif"/>
