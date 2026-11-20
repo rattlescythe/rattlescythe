@@ -1,1 +1,1 @@
-<img src="https://static.wikitide.net/phightingwiki/thumb/6/6a/Mastery_Banner_I_Scythe.png/800px-Mastery_Banner_I_Scythe.png?_=20261005031747" alt="File:Mastery Banner I Scythe.png"/>
+<img src="https://static.wikitide.net/phightingwiki/thumb/6/6a/Mastery_Banner_I_Scythe.png/800px-Mastery_Banner_I_Scythe.png?_=20261005031747"/><img width="800" height="160" alt="image" src="https://github.com/user-attachments/assets/d21daba4-86af-4f3f-b80a-0b5d7820e353" />
