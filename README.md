@@ -10,5 +10,5 @@
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/f077ef25-afcc-4d6f-9220-2d50f1b703c7" />
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/868ee2a6-1e28-4642-8f0f-c289e7add893" />
  
-<img src="https://static.wikitide.net/phightingwiki/0/0a/Mastery_Sticker_II_Medkit.gif?_=20261003223927" alt="File:Mastery Sticker II Medkit.gif"/>    <img src="https://i.pinimg.com/736x/13/43/98/13439858acc9e24665928b059551ab50.jpg" alt="Story pin image"/><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9e6ddae9-2d75-42d7-9c1b-8ac6abe6cc69" />
+<img src="https://static.wikitide.net/phightingwiki/0/0a/Mastery_Sticker_II_Medkit.gif?_=20261003223927" alt="File:Mastery Sticker II Medkit.gif"/>   <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/24d9965d-41f6-43c5-9c05-4d7c98a76ce6" />
 
