@@ -9,7 +9,7 @@
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/72117027-6068-42fb-a770-36ef2cbc3395" />
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/f077ef25-afcc-4d6f-9220-2d50f1b703c7" />
 <img width="33" height="46" alt="image" src="https://github.com/user-attachments/assets/868ee2a6-1e28-4642-8f0f-c289e7add893" />
- 
+                                                                                                                                                                                 ᴛʜɪꜱ ᴀ ᴡɪᴘ ʟᴏʟ
 <img src="https://static.wikitide.net/phightingwiki/0/0a/Mastery_Sticker_II_Medkit.gif?_=20261003223927" alt="File:Mastery Sticker II Medkit.gif"/>                              ᴛᴇᴇɴ        ʙᴍꜰ 
 
 
