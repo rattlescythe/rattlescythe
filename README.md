@@ -21,5 +21,3 @@
 
 
 
-
-<img src="https://i.pinimg.com/736x/50/7b/93/507b9328a784f1f6600036ee75ec7eda.jpg" alt="Story pin image"/><img width="800" height="23" alt="image" src="https://github.com/user-attachments/assets/f97d8935-e8e3-4fce-8673-20ecc7c660eb" />
